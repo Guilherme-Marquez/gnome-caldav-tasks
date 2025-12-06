@@ -1,0 +1,11 @@
+{
+  "uuid": "caldav-tasks@pmetis.opendev",
+  "name": "CalDAV Tasks",
+  "description": "Manage your CalDAV tasks directly from the GNOME Shell panel. Add, complete, and delete tasks.",
+  "shell-version": [
+    "46",
+    "48"
+  ],
+  "version": 1,
+  "main": "extension.js"
+}
